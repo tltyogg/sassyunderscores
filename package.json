@@ -1,0 +1,33 @@
+{
+  "name": "underscoresass",
+  "version": "1.0.0",
+  "description": "A sassy underscores-based theme",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tltyogg/sassyunderscores.git"
+  },
+  "keywords": [
+    "sass",
+    "grunt",
+    "autoprefixer",
+    "underscores",
+    "wordpress"
+  ],
+  "author": "Sara Carbaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tltyogg/sassyunderscores/issues"
+  },
+  "homepage": "https://github.com/tltyogg/sassyunderscores#readme",
+  "devDependencies": {
+    "coffeescript": "^2.2.3",
+    "grunt": "^1.0.2",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
